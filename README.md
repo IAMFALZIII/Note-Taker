@@ -13,7 +13,7 @@
   ## Installation:
   N/A
   ## Usage:
-  Click on the live link to the Web App.
+  ![Click on the live link to the Web App](https://limitless-taiga-75684.herokuapp.com/)
   ## License:
   MIT
   ## Contribution:
